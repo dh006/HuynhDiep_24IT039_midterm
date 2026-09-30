@@ -45,3 +45,6 @@ HuynhDiep_24IT039_midterm/
 ├── Makefile
 ├── README.md
 └── .gitignore
+## GitHub Repository
+
+https://github.com/dh006/HuynhDiep_24IT039_midterm
