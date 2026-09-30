@@ -1,0 +1,19 @@
+# Object files
+*.o
+
+# Compiled executable
+myls
+
+# Other compiled output
+*.out
+
+# Editor backup files
+*~
+*.save
+
+# Core dumps
+core
+core.*
+
+# OS files
+.DS_Store
